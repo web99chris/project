@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="378px" height="88px" viewBox="0 0 378 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#081C3A" offset="0%"></stop>
+            <stop stop-color="#024467" offset="47.5961538%"></stop>
+            <stop stop-color="#041435" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#041435" offset="0%"></stop>
+            <stop stop-color="#024467" offset="49.6618621%"></stop>
+            <stop stop-color="#081C3A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#26214E" offset="0%"></stop>
+            <stop stop-color="#50136D" offset="49.6618621%"></stop>
+            <stop stop-color="#26214E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="47.0962631%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="0" width="370" height="80" rx="15"></rect>
+        <filter x="-1.9%" y="-6.2%" width="103.8%" height="117.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.6%" y="-5.0%" width="103.2%" height="115.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.123962458   0 0 0 0 0   0 0 0 0 0.236158288  0 0 0 0.8 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="20" y="13" width="92" height="26" rx="13"></rect>
+        <filter x="-8.7%" y="-15.4%" width="117.4%" height="161.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2008-tw-momo-tab1-5-2-2" transform="translate(-19.000000, -2004.000000)">
+            
+            <g id="rank" transform="translate(14.000000, 1757.000000)">
+                <rect id="Rectangle" fill="url(#linearGradient-2)" x="0" y="150" width="387" height="530" rx="15"></rect>
+                <g id="1" transform="translate(0.000000, 150.000000)">
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="80" width="387" height="376"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" style="mix-blend-mode: overlay;" x="0" y="80" width="387" height="376"></rect>
+                    <g id="Group-3" transform="translate(9.000000, 99.000000)">
+                        <g id="Group-2">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                <use fill="url(#linearGradient-5)" fill-rule="evenodd" style="mix-blend-mode: overlay;" xlink:href="#path-6"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-6"></use>
+                            </g>
+                           
+                        </g>
+                    </g>
+                </g>
+                
+            </g>
+        </g>
+    </g>
+</svg>
