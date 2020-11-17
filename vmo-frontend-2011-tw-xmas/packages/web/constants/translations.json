@@ -1,0 +1,578 @@
+[
+  {
+    "key": "EMPTY_LEADERBOARD",
+    "values": [
+      {
+        "language": "zh_JP",
+        "value": "空席"
+      },
+      {
+        "language": "zh_TW",
+        "value": "空席"
+      },
+      {
+        "language": "ja",
+        "value": "空席"
+      }
+    ]
+  },
+  {
+    "key": "VOTE_LOADING",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "載入中…"
+      },
+      {
+        "language": "ja",
+        "value": "読み込み中…"
+      }
+    ]
+  },
+  {
+    "key": "SERVER_ERROR_MESSAGE",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "投票ができませんでした。もう一度お試しください。"
+      },
+      {
+        "language": "ja",
+        "value": "投票ができませんでした。もう一度お試しください。"
+      }
+    ]
+  },
+  {
+    "key": "GENERAL_ERROR_MESSAGE",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "投票は「17LIVE」アプリ内でご利用可能です。"
+      },
+      {
+        "language": "ja",
+        "value": "投票は「17LIVE」アプリ内でご利用可能です。"
+      }
+    ]
+  },
+  {
+    "key": "NOT_IN_PERIOD",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "投票期間外です。"
+      },
+      {
+        "language": "ja",
+        "value": "投票期間外です。"
+      }
+    ]
+  },
+  {
+    "key": "VOTE_SUCCESSFULLY",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "投票しました！"
+      },
+      {
+        "language": "ja",
+        "value": "投票しました！"
+      }
+    ]
+  },
+  {
+    "key": "LEVEL_UNQUALIFIED",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "投票可能なLVに達していません。"
+      },
+      {
+        "language": "ja",
+        "value": "投票可能なLVに達していません。"
+      }
+    ]
+  },
+  {
+    "key": "HAS_VOTED_TO_NOMINEE",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "同一ライバーへの複数投票はできません。"
+      },
+      {
+        "language": "ja",
+        "value": "同一ライバーへの複数投票はできません。"
+      }
+    ]
+  },
+  {
+    "key": "NO_QUOTA",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "同一ライバーへの複数投票はできません。"
+      },
+      {
+        "language": "ja",
+        "value": "同一ライバーへの複数投票はできません。"
+      }
+    ]
+  },
+  {
+    "key": "COUNTDOWN_HAS_NOT_BEGUN",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "活動尚未開始"
+      },
+      {
+        "language": "ja",
+        "value": "イベントは開始されていません"
+      }
+    ]
+  },
+  {
+    "key": "COUNTDOWN_HAS_ENDED",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "活動已結束"
+      },
+      {
+        "language": "ja",
+        "value": "イベントは終了しました"
+      }
+    ]
+  },
+  {
+    "key": "COUNTDOWN_COUNTING",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "活動剩餘 {0} {1} {2}"
+      },
+      {
+        "language": "ja",
+        "value": "イベント終了まであと {0} {1} {2}"
+      }
+    ]
+  },
+  {
+    "key": "COUNTDOWN_DAY",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "天"
+      },
+      {
+        "language": "ja",
+        "value": "天"
+      }
+    ]
+  },
+  {
+    "key": "COUNTDOWN_PLURAL_DAY",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "天"
+      },
+      {
+        "language": "ja",
+        "value": "天"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "響叮噹"
+      },
+      {
+        "language": "ja",
+        "value": "響叮噹"
+      }
+    ]
+  },
+  {
+    "key": "TAB_1",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "平安夜"
+      },
+      {
+        "language": "ja",
+        "value": "平安夜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_2",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "狂歡夜"
+      },
+      {
+        "language": "ja",
+        "value": "狂歡夜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_3",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "聖誕總榜"
+      },
+      {
+        "language": "ja",
+        "value": "聖誕總榜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "階段一"
+      },
+      {
+        "language": "ja",
+        "value": "階段一"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_1",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "階段二"
+      },
+      {
+        "language": "ja",
+        "value": "階段二"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_2",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "階段三"
+      },
+      {
+        "language": "ja",
+        "value": "階段三"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_2_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "12/8-12/9"
+      },
+      {
+        "language": "ja",
+        "value": "12/8-12/9"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_2_1",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "12/10-12/11"
+      },
+      {
+        "language": "ja",
+        "value": "12/10-12/11"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_2_2",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "12/12-12/13"
+      },
+      {
+        "language": "ja",
+        "value": "12/12-12/13"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_2_3",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "12/14-12/15"
+      },
+      {
+        "language": "ja",
+        "value": "12/14-12/15"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_2_4",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "階段總榜"
+      },
+      {
+        "language": "ja",
+        "value": "階段總榜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_3",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "出席總榜"
+      },
+      {
+        "language": "ja",
+        "value": "出席總榜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_3_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "主播出席榜"
+      },
+      {
+        "language": "ja",
+        "value": "主播出席榜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_0_3_1",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "粉絲出席榜"
+      },
+      {
+        "language": "ja",
+        "value": "粉絲出席榜"
+      }
+    ]
+  },
+  {
+    "key": "EVENT_METHOD_TITLE",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "活動攻略"
+      },
+      {
+        "language": "ja",
+        "value": "選択"
+      }
+    ]
+  },
+  {
+    "key": "EVENT_INTRO_TITLE",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "活動說明"
+      },
+      {
+        "language": "ja",
+        "value": "活動說明"
+      }
+    ]
+  },
+  {
+    "key": "EVENT_INTRO_METHOD_TITLE",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "活動辦法"
+      },
+      {
+        "language": "ja",
+        "value": "活動辦法"
+      }
+    ]
+  },
+  {
+    "key": "EVENT_INTRO_TIMELINE",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "節點圖"
+      },
+      {
+        "language": "ja",
+        "value": "節點圖"
+      }
+    ]
+  },
+  {
+    "key": "EVENT_INTRO_GIFT",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "活動禮物"
+      },
+      {
+        "language": "ja",
+        "value": "活動禮物"
+      }
+    ]
+  },
+  {
+    "key": "TAB_1_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "階段四"
+      },
+      {
+        "language": "ja",
+        "value": "階段四"
+      }
+    ]
+  },
+  {
+    "key": "TAB_1_1_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "聖誕襪"
+      },
+      {
+        "language": "ja",
+        "value": "聖誕襪"
+      }
+    ]
+  },
+  {
+    "key": "TAB_1_1_1",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "拐杖糖"
+      },
+      {
+        "language": "ja",
+        "value": "拐杖糖"
+      }
+    ]
+  },
+  {
+    "key": "TAB_1_1_2",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "薑餅人"
+      },
+      {
+        "language": "ja",
+        "value": "薑餅人"
+      }
+    ]
+  },
+  {
+    "key": "TAB_2_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "Round 1"
+      },
+      {
+        "language": "ja",
+        "value": "Round 1"
+      }
+    ]
+  },
+  {
+    "key": "TAB_2_1",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "Round 2"
+      },
+      {
+        "language": "ja",
+        "value": "Round 2"
+      }
+    ]
+  },
+  {
+    "key": "TAB_2_2",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "線下總榜"
+      },
+      {
+        "language": "ja",
+        "value": "線下總榜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_3_0",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "主播總榜"
+      },
+      {
+        "language": "ja",
+        "value": "主播總榜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_3_1",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "粉絲總榜"
+      },
+      {
+        "language": "ja",
+        "value": "粉絲總榜"
+      }
+    ]
+  },
+  {
+    "key": "TAB_3_2",
+    "values": [
+      {
+        "language": "zh_TW",
+        "value": "總榜大獎"
+      },
+      {
+        "language": "ja",
+        "value": "總榜大獎"
+      }
+    ]
+  }
+]

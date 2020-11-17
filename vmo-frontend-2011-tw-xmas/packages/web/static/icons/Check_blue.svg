@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_list_ok</title>
+    <defs>
+        <path d="M9.99999324,20 C4.47841424,20 0,15.6808326 0,10.3555941 L0,9.6444059 C0,4.31916739 4.47841424,0 9.99999324,0 L9.99999324,0 C15.5215722,0 19.9999865,4.31916739 19.9999865,9.6444059 L19.9999865,10.3555941 C20.0089793,15.6808326 15.530565,20 9.99999324,20 L9.99999324,20 Z" id="path-1"></path>
+        <filter x="-2.5%" y="-2.5%" width="105.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="79.2436251%" y1="86.370674%" x2="17.44358%" y2="14.9853591%" id="linearGradient-3">
+            <stop stop-color="#0B9CD5" offset="0%"></stop>
+            <stop stop-color="#51DAFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_list_ok" transform="translate(0.000000, -0.000000)">
+            <g id="Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M9.99999324,20 C4.47841424,20 0,15.6808326 0,10.3555941 L0,9.6444059 C0,4.31916739 4.47841424,0 9.99999324,0 L9.99999324,0 C15.5215722,0 19.9999865,4.31916739 19.9999865,9.6444059 L19.9999865,10.3555941 C20.0089793,15.6808326 15.530565,20 9.99999324,20 L9.99999324,20 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M9.99999358,18.6666667 C5.20966442,18.6666667 1.33333333,14.9265639 1.33333333,10.3221517 L1.33333333,9.67784829 C1.33333333,5.06557872 5.21782512,1.33333333 9.99999358,1.33333333 C14.7903227,1.33333333 18.6666538,5.07343608 18.6666538,9.67784829 L18.6666538,10.3221517 C18.6748145,14.9344213 14.7903227,18.6666667 9.99999358,18.6666667 Z" id="333" fill="url(#linearGradient-3)"></path>
+            <polyline id="Page-1" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="5.45454545 10.0091635 8.75502455 13.6363636 14.5454545 7.27272727"></polyline>
+        </g>
+    </g>
+</svg>

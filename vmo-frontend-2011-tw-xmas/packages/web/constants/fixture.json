@@ -1,0 +1,1252 @@
+{
+  "createdAt": 1576749351,
+  "data": [
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 50000,
+      "userID": "29548e0e-18d0-4542-9109-a7929cd720c0",
+      "lastTimestamp": 1579435839,
+      "rank": 0,
+      "meta": {
+        "s1": "0",
+        "s2": "0",
+        "s3": "400000",
+        "r2": "61400",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "29548e0e-18d0-4542-9109-a7929cd720c0",
+        "openID": "番茄總理LLGIRL",
+        "displayName": "LingLingW❄️綾兒",
+        "followerCount": 44274,
+        "roomID": 371,
+        "experience": 422974,
+        "picture": "64851E57-5F27-4824-9AEB-8877637651BE.jpg",
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 49999,
+      "userID": "8f48beb5-b163-4010-879c-80ad9b5b7891",
+      "lastTimestamp": 1579435856,
+      "rank": 1,
+      "meta": {
+        "isLocked": "0",
+        "s1": "576180",
+        "s2": "0",
+        "s3": "0",
+        "r2": "3000000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "8f48beb5-b163-4010-879c-80ad9b5b7891",
+        "openID": "jinxy",
+        "displayName": "Jinxy",
+        "picture": "A4115410-A7DD-4590-BB6D-51902AD620D9.jpg",
+        "followerCount": 43648,
+        "roomID": 8120,
+        "experience": 188702,
+        "region": "CN"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 50000,
+      "userID": "a793584b-90cc-4018-9a3a-92534f022b2f",
+      "lastTimestamp": 1579435881,
+      "rank": 2,
+      "meta": {
+        "isLocked": "0",
+        "s1": "670950",
+        "s2": "60000",
+        "s3": "83120",
+        "r2": "3000000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "a793584b-90cc-4018-9a3a-92534f022b2f",
+        "openID": "李萱verna",
+        "displayName": "🦄李萱verna🦋",
+        "followerCount": 56741,
+        "roomID": 38334,
+        "experience": 822897,
+        "picture": "437BAC59-5415-416C-A3D1-F202997910FA.jpg",
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 200000,
+      "userID": "b130b52e-91cb-480d-b029-2e2145a61958",
+      "lastTimestamp": 1579435860,
+      "rank": 3,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "2500000",
+        "s3": "52900",
+        "r2": "500000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "b130b52e-91cb-480d-b029-2e2145a61958",
+        "openID": "艾葳Avril",
+        "displayName": "阿葳喜歡臉消威",
+        "followerCount": 90512,
+        "roomID": 1669,
+        "experience": 17631666,
+        "region": "TW",
+        "picture": "F446D63A-1BF4-40B7-B40A-FF76ED512C95.jpg"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 500000,
+      "userID": "33e7f6dc-4ca0-430b-9701-2f795cf100f7",
+      "lastTimestamp": 1579435891,
+      "rank": 4,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "800000",
+        "s3": "0",
+        "r2": "1500000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "33e7f6dc-4ca0-430b-9701-2f795cf100f7",
+        "openID": "fufu19950801",
+        "followerCount": 351638,
+        "picture": "41DC4540-E7A2-4EC1-B597-53DBA0DAFE6D.jpg",
+        "roomID": 3201,
+        "experience": 4022531,
+        "displayName": "沈琪琪 77✨",
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 6875940,
+      "userID": "f5662232-5f7b-407c-8b44-fa091b5e4d40",
+      "lastTimestamp": 1579435895,
+      "rank": 5,
+      "meta": {
+        "isLocked": "0",
+        "s1": "470340",
+        "s2": "1500000",
+        "s3": "0",
+        "r2": "250000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "f5662232-5f7b-407c-8b44-fa091b5e4d40",
+        "openID": "ashlee.n",
+        "displayName": "艾舒妮🎈",
+        "picture": "CD05F8B2-4807-43A9-8E0E-244D6964C44E.jpg",
+        "followerCount": 47642,
+        "experience": 21306,
+        "roomID": 132836,
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 6728820,
+      "userID": "94b2c8b4-1a87-4921-a66e-21840cf4cd40",
+      "lastTimestamp": 1579435896,
+      "rank": 6,
+      "meta": {
+        "isLocked": "0",
+        "s1": "455220",
+        "s2": "0",
+        "s3": "0",
+        "r2": "2000000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "94b2c8b4-1a87-4921-a66e-21840cf4cd40",
+        "openID": "meiabby",
+        "displayName": "草莓甜心❤",
+        "picture": "DC9BCAAC-7FAD-42CC-966B-B720B095443E.jpg",
+        "followerCount": 75091,
+        "experience": 216261,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 210000,
+      "userID": "e78e3cbe-aed3-45de-ba02-9fcaf34f571d",
+      "lastTimestamp": 1579435857,
+      "rank": 7,
+      "meta": {
+        "isLocked": "0",
+        "s1": "840510",
+        "s2": "0",
+        "s3": "69600",
+        "r2": "1500000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "e78e3cbe-aed3-45de-ba02-9fcaf34f571d",
+        "openID": "ada0610",
+        "displayName": "Ada 林",
+        "followerCount": 220365,
+        "roomID": 141,
+        "experience": 6151725,
+        "region": "TW",
+        "picture": "6F2EB0F4-1929-480B-B862-2838F5EF71E8.jpg"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5996000,
+      "userID": "2f5b2515-fa46-4547-baef-6aee933523d0",
+      "lastTimestamp": 1579435872,
+      "rank": 8,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "2000000",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "2f5b2515-fa46-4547-baef-6aee933523d0",
+        "openID": "florenzyu",
+        "displayName": "科雲 FlorenzYu",
+        "picture": "AAF8F437-9F14-4B15-B45B-F1ECEDC5B254.jpg",
+        "followerCount": 46616,
+        "roomID": 123763,
+        "experience": 12704,
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5977020,
+      "userID": "9b101b83-fc19-4c3a-ba71-ba13f253d61f",
+      "lastTimestamp": 1579435897,
+      "rank": 9,
+      "meta": {
+        "isLocked": "0",
+        "s1": "614520",
+        "s2": "0",
+        "s3": "44700",
+        "r2": "2000000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "9b101b83-fc19-4c3a-ba71-ba13f253d61f",
+        "openID": "張子蕾913蕾蕾",
+        "displayName": "張子蕾",
+        "followerCount": 86319,
+        "roomID": 56831,
+        "experience": 209212677,
+        "region": "TW",
+        "picture": "E1D02385-0224-4E7D-A219-0EEFD209B69E.jpg"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5930680,
+      "userID": "dea53269-cb56-4921-9426-4f60ea5d1a05",
+      "lastTimestamp": 1579435784,
+      "rank": 10,
+      "meta": {
+        "isLocked": "0",
+        "s1": "715500",
+        "s2": "0",
+        "s3": "45380",
+        "r2": "1500000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "dea53269-cb56-4921-9426-4f60ea5d1a05",
+        "openID": "小金魚韓羽",
+        "displayName": "小羽",
+        "followerCount": 78170,
+        "roomID": 154473,
+        "experience": 313606926,
+        "region": "TW",
+        "picture": "93F3E185-6E18-4B35-A3EE-7174C554A30C.jpg"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5922900,
+      "userID": "02b1dd94-9638-4ff4-a0f9-d0684b6809ab",
+      "lastTimestamp": 1579435881,
+      "rank": 11,
+      "meta": {
+        "isLocked": "0",
+        "s1": "509760",
+        "s2": "0",
+        "s3": "49140",
+        "r2": "1000000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "02b1dd94-9638-4ff4-a0f9-d0684b6809ab",
+        "openID": "雅淳Bella",
+        "displayName": "雅淳 Bella💗",
+        "followerCount": 234761,
+        "roomID": 10903,
+        "experience": 23972124,
+        "picture": "AEEABB91-C230-4861-B81E-5F1C5CA08074.jpg",
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5884380,
+      "userID": "3b58c1c1-81ac-4002-ae82-d6f6addadee1",
+      "lastTimestamp": 1579435894,
+      "rank": 12,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "600000",
+        "s3": "67580",
+        "r2": "100000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "3b58c1c1-81ac-4002-ae82-d6f6addadee1",
+        "openID": "瑪莉珍",
+        "displayName": "Bastard Marley",
+        "picture": "C1F086D4-1567-4669-849C-30173CE3F45D.jpg",
+        "followerCount": 46827,
+        "roomID": 179222,
+        "experience": 41008,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5863320,
+      "userID": "db4095c9-4240-49ce-a89f-3d652720bc80",
+      "lastTimestamp": 1579435881,
+      "rank": 13,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "1000000",
+        "s3": "44920",
+        "r2": "700000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "db4095c9-4240-49ce-a89f-3d652720bc80",
+        "openID": "潘嵐嵐Doris",
+        "displayName": "潘嵐嵐",
+        "picture": "F0F443C6-5EDA-4648-8656-4FABA01A859C.jpg",
+        "followerCount": 126523,
+        "roomID": 3244,
+        "experience": 3119525,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5854100,
+      "userID": "3799a637-1125-4f62-a71a-01ec28d9a5c9",
+      "lastTimestamp": 1579435714,
+      "rank": 14,
+      "meta": {
+        "isLocked": "0",
+        "s1": "455760",
+        "s2": "0",
+        "s3": "38140",
+        "r2": "1000000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "3799a637-1125-4f62-a71a-01ec28d9a5c9",
+        "openID": "coffee89921",
+        "displayName": "Coffee林芊妤",
+        "picture": "45EB006F-7749-438F-92CA-2CB24FA6F358.jpg",
+        "followerCount": 132158,
+        "experience": 67496,
+        "roomID": 152336,
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5652220,
+      "userID": "1501d9c4-f366-4202-87ea-c4a33141f1f6",
+      "lastTimestamp": 1579435896,
+      "rank": 15,
+      "meta": {
+        "isLocked": "0",
+        "s1": "623700",
+        "s2": "0",
+        "s3": "70920",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "1501d9c4-f366-4202-87ea-c4a33141f1f6",
+        "openID": "王璇Wanghsuan",
+        "displayName": "逼波逼波逼波",
+        "followerCount": 52977,
+        "roomID": 95,
+        "experience": 14493512,
+        "picture": "51F15CA7-C280-48F6-AA57-0807BF0CDE20.jpg",
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5575000,
+      "userID": "50768957-9fec-4568-b4bf-3dd08e8060ef",
+      "lastTimestamp": 1579435838,
+      "rank": 16,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "1000000",
+        "s3": "59000",
+        "r2": "200000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "50768957-9fec-4568-b4bf-3dd08e8060ef",
+        "openID": "cuteannie",
+        "displayName": "妮是唯一Annie",
+        "picture": "D4043BB5-F763-4BFB-A2CF-12B9AECD1E11.jpg",
+        "followerCount": 60243,
+        "roomID": 113986,
+        "experience": 15703,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5484050,
+      "userID": "9e9a4b34-a28a-4fdf-aa53-a380ee3e0f31",
+      "lastTimestamp": 1579435906,
+      "rank": 17,
+      "meta": {
+        "isLocked": "0",
+        "s1": "556470",
+        "s2": "100000",
+        "s3": "73780",
+        "r2": "150000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "9e9a4b34-a28a-4fdf-aa53-a380ee3e0f31",
+        "openID": "江晏寧Annie",
+        "displayName": "Annie Jiang",
+        "picture": "67B7E36E-47E9-4E43-A4DE-0B102D2C5DA2.jpg",
+        "followerCount": 129440,
+        "experience": 5685342,
+        "roomID": 111459,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5433800,
+      "userID": "dbb43746-a0e4-430a-a52b-d79fa5374a34",
+      "lastTimestamp": 1579435909,
+      "rank": 18,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "400000",
+        "s3": "0",
+        "r2": "1000000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "dbb43746-a0e4-430a-a52b-d79fa5374a34",
+        "openID": "妮妮兒",
+        "displayName": "妮妮兒",
+        "picture": "65CC0AED-55ED-4F60-91E1-A1B9B95795AA.jpg",
+        "followerCount": 60196,
+        "roomID": 80184,
+        "experience": 12485302,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5373140,
+      "userID": "a11c622b-b66c-49d3-8c06-5180ffc6c250",
+      "lastTimestamp": 1579435863,
+      "rank": 19,
+      "meta": {
+        "isLocked": "0",
+        "s1": "670140",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "a11c622b-b66c-49d3-8c06-5180ffc6c250",
+        "openID": "小芽刷",
+        "displayName": "🦋小芽刷🦋",
+        "picture": "3D1BA500-39C9-4BC3-8AA0-83550B65B8B6.jpg",
+        "followerCount": 51547,
+        "roomID": 3680,
+        "experience": 723916,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5346030,
+      "userID": "61b22b08-9f40-4709-9755-2e37a34904ad",
+      "lastTimestamp": 1579435845,
+      "rank": 20,
+      "meta": {
+        "isLocked": "0",
+        "s1": "461430",
+        "s2": "0",
+        "s3": "0",
+        "r2": "100000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "61b22b08-9f40-4709-9755-2e37a34904ad",
+        "openID": "hanna黃鈺涵",
+        "displayName": "Hanna黃鈺涵",
+        "picture": "17F50B2C-9D28-4D20-951C-07996E514978.jpg",
+        "followerCount": 41566,
+        "roomID": 5860,
+        "experience": 2895887,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5297000,
+      "userID": "97c2de29-78e5-4f85-bc0b-ebc5ce2b4c50",
+      "lastTimestamp": 1579435789,
+      "rank": 21,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "600000",
+        "s3": "0",
+        "r2": "700000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "97c2de29-78e5-4f85-bc0b-ebc5ce2b4c50",
+        "openID": "金莎Mimi🍭🍭🍭",
+        "displayName": "謝謝你們的疼愛 💕謹記在心💕",
+        "followerCount": 61342,
+        "roomID": 51832,
+        "experience": 32006457,
+        "region": "TW",
+        "picture": "87ED938B-1EA5-44A7-9191-141E64D53DE9.jpg"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5185830,
+      "userID": "1af4cba1-59de-45d0-b3cc-719c58eef0d7",
+      "lastTimestamp": 1579435707,
+      "rank": 22,
+      "meta": {
+        "isLocked": "0",
+        "s1": "453870",
+        "s2": "0",
+        "s3": "70760",
+        "r2": "700000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "1af4cba1-59de-45d0-b3cc-719c58eef0d7",
+        "openID": "莉娜🌈獨角星球⭐Lyna",
+        "displayName": "༄🌹誕辰月",
+        "picture": "D2D7B269-8B45-4854-BD2F-20245883D5CC.jpg",
+        "followerCount": 57883,
+        "roomID": 167,
+        "experience": 47003295,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5077000,
+      "userID": "5f566686-be46-414c-a714-9ac16790c026",
+      "lastTimestamp": 1579435901,
+      "rank": 23,
+      "meta": {
+        "isLocked": "0",
+        "s1": "0",
+        "s2": "800000",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "5f566686-be46-414c-a714-9ac16790c026",
+        "openID": "nien0813",
+        "displayName": "念💙",
+        "picture": "D0B2A169-BD99-40DD-BF6C-F37862A9831A.jpg",
+        "followerCount": 45938,
+        "roomID": 27978,
+        "experience": 81266,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5063730,
+      "userID": "3c3d9327-2b39-47df-aec5-0f421de0f96e",
+      "lastTimestamp": 1579435839,
+      "rank": 24,
+      "meta": {
+        "isLocked": "0",
+        "s1": "464130",
+        "s2": "60000",
+        "s3": "0",
+        "r2": "500000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "3c3d9327-2b39-47df-aec5-0f421de0f96e",
+        "openID": "haha🐻芷瑀",
+        "displayName": "哈欠蛙🐸",
+        "picture": "7C617DA1-487E-4B71-96C9-BB0855D36A99.jpg",
+        "followerCount": 109925,
+        "roomID": 193,
+        "experience": 25542714,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 5006600,
+      "userID": "b5f92a2a-2e66-43ae-ba55-74f6ee02a0be",
+      "lastTimestamp": 1579435808,
+      "rank": 25,
+      "meta": {
+        "isLocked": "0",
+        "s1": "453600",
+        "s2": "0",
+        "s3": "30800",
+        "r2": "150000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "b5f92a2a-2e66-43ae-ba55-74f6ee02a0be",
+        "openID": "陸子玄Lois",
+        "displayName": "🐷一三五日開播🐷",
+        "picture": "42BB2324-CA27-4F30-9A55-93949FBDB0B1.jpg",
+        "followerCount": 135803,
+        "roomID": 2121,
+        "experience": 165170728,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4970050,
+      "userID": "9f346eb8-0014-459e-af51-71620ffce9cf",
+      "lastTimestamp": 1579435841,
+      "rank": 26,
+      "meta": {
+        "isLocked": "0",
+        "s1": "733050",
+        "s2": "0",
+        "s3": "78000",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "9f346eb8-0014-459e-af51-71620ffce9cf",
+        "openID": "reneencl",
+        "displayName": "R E N É E 🌹",
+        "picture": "18567FDF-6303-417E-ADFA-0EDAC14A31E0.jpg",
+        "followerCount": 88642,
+        "roomID": 20722,
+        "experience": 121053,
+        "region": "GB"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4947650,
+      "userID": "bc566433-fd63-4261-b283-c670695c43c0",
+      "lastTimestamp": 1579435869,
+      "rank": 27,
+      "meta": {
+        "isLocked": "0",
+        "s1": "575370",
+        "s2": "0",
+        "s3": "44280",
+        "r2": "250000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "bc566433-fd63-4261-b283-c670695c43c0",
+        "openID": "cherrymiku",
+        "displayName": "櫻桃妹妹🍒",
+        "picture": "D37C351E-2468-4585-9326-8B6E55862632.jpg",
+        "followerCount": 50181,
+        "experience": 119004,
+        "roomID": 160457,
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4922300,
+      "userID": "1fdd1b65-8e78-4804-bace-e1728bc8fae3",
+      "lastTimestamp": 1579435858,
+      "rank": 28,
+      "meta": {
+        "isLocked": "0",
+        "s1": "575100",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "1fdd1b65-8e78-4804-bace-e1728bc8fae3",
+        "openID": "carey20",
+        "picture": "46725ECD-A4E8-4BFF-90E5-92EB695FE836.jpg",
+        "followerCount": 229292,
+        "roomID": 2966,
+        "experience": 28361829,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4920270,
+      "userID": "a8764ff6-a584-4a9a-9c7a-8fcbcf54e4bb",
+      "lastTimestamp": 1579435802,
+      "rank": 29,
+      "meta": {
+        "isLocked": "0",
+        "s1": "680670",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "a8764ff6-a584-4a9a-9c7a-8fcbcf54e4bb",
+        "openID": "lala心甯",
+        "picture": "F740B61D-821F-4A33-80A0-FB163A49C79C.jpg",
+        "displayName": "畢業中🎓",
+        "followerCount": 76039,
+        "experience": 122210627,
+        "roomID": 182237,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4917900,
+      "userID": "f05b6e86-1ef6-498a-aa06-a47a10b2d61a",
+      "lastTimestamp": 1579435915,
+      "rank": 30,
+      "meta": {
+        "isLocked": "0",
+        "s1": "569700",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "f05b6e86-1ef6-498a-aa06-a47a10b2d61a",
+        "openID": "紀曉嵐QDJ-AraSHi",
+        "displayName": "紀曉嵐 DJ AraSHi",
+        "followerCount": 58752,
+        "experience": 2451354,
+        "roomID": 183112,
+        "picture": "9C549C26-2268-4DBF-AFC3-13C5FC5D86FC.jpg",
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4886250,
+      "userID": "4b4bde8a-dd8b-4174-9ed8-c97433d3b21f",
+      "lastTimestamp": 1579435914,
+      "rank": 31,
+      "meta": {
+        "isLocked": "0",
+        "s1": "625050",
+        "s2": "0",
+        "s3": "0",
+        "r2": "150000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "4b4bde8a-dd8b-4174-9ed8-c97433d3b21f",
+        "openID": "陳言菲Febe",
+        "displayName": "",
+        "picture": "AE23D958-B2A7-41F4-98F5-9409B8C3CC97.jpg",
+        "followerCount": 44508,
+        "roomID": 181066,
+        "experience": 700513,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4840780,
+      "userID": "3f504103-cc84-4f76-b064-a75b59b1362c",
+      "lastTimestamp": 1579435877,
+      "rank": 32,
+      "meta": {
+        "isLocked": "0",
+        "s1": "678780",
+        "s2": "0",
+        "s3": "0",
+        "r2": "150000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "3f504103-cc84-4f76-b064-a75b59b1362c",
+        "openID": "掌櫃",
+        "displayName": "Mike",
+        "picture": "140F921A-8391-4F2F-A779-05859B451464.jpg",
+        "followerCount": 42487,
+        "roomID": 230888,
+        "experience": 522862,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4816840,
+      "userID": "f772df90-2a7b-43e4-9465-1789aefa7292",
+      "lastTimestamp": 1579435866,
+      "rank": 33,
+      "meta": {
+        "isLocked": "0",
+        "s1": "517320",
+        "s2": "0",
+        "s3": "61120",
+        "r2": "250000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "f772df90-2a7b-43e4-9465-1789aefa7292",
+        "openID": "小娜美🎀Baby",
+        "displayName": "衝 🎁  《城市寶寶》送娜美抱枕❤️",
+        "followerCount": 288560,
+        "roomID": 2985,
+        "experience": 11805702,
+        "region": "TW",
+        "picture": "7818D7E8-199D-4385-B81A-7ADB25A79FA9.jpg"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4809470,
+      "userID": "c94fdb34-aaf5-499e-bb8f-48d347ae6ea4",
+      "lastTimestamp": 1579435899,
+      "rank": 34,
+      "meta": {
+        "isLocked": "0",
+        "s1": "515430",
+        "s2": "0",
+        "s3": "51240",
+        "r2": "500000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "c94fdb34-aaf5-499e-bb8f-48d347ae6ea4",
+        "openID": "miatai",
+        "displayName": "🎀Mia💓咪婭🍼",
+        "picture": "AA9992DE-7A59-4CDE-AC82-87A49769C983.jpg",
+        "followerCount": 52379,
+        "roomID": 4104,
+        "experience": 37259,
+        "region": "CN"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4802920,
+      "userID": "321187dc-4798-402d-926e-7d4a08eae9f0",
+      "lastTimestamp": 1579435901,
+      "rank": 35,
+      "meta": {
+        "isLocked": "0",
+        "s1": "722520",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "321187dc-4798-402d-926e-7d4a08eae9f0",
+        "openID": "關關Debby",
+        "picture": "4591F725-9118-49F6-88F5-350ED7F85421.jpg",
+        "followerCount": 222906,
+        "roomID": 2500,
+        "experience": 297573260,
+        "displayName": "終於可以休息😤",
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4778390,
+      "userID": "c8e7ac99-2b1c-4928-a340-a2997f28a62f",
+      "lastTimestamp": 1579435855,
+      "rank": 36,
+      "meta": {
+        "isLocked": "0",
+        "s1": "612090",
+        "s2": "0",
+        "s3": "82300",
+        "r2": "100000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "c8e7ac99-2b1c-4928-a340-a2997f28a62f",
+        "openID": "amberchann46",
+        "displayName": "陳煦凝白羊女^^",
+        "picture": "58B9F0F0-8110-4A58-9007-C00D042DFE3E.jpg",
+        "followerCount": 74730,
+        "roomID": 76189,
+        "experience": 48623,
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4734020,
+      "userID": "6b17e93b-97ef-427b-a442-9626ebe72b5b",
+      "lastTimestamp": 1579435874,
+      "rank": 37,
+      "meta": {
+        "isLocked": "0",
+        "s1": "637740",
+        "s2": "0",
+        "s3": "92280",
+        "r2": "200000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "6b17e93b-97ef-427b-a442-9626ebe72b5b",
+        "openID": "anne",
+        "displayName": "黃安琪-Anne",
+        "picture": "2EE1D47E-2A92-4F58-9069-B82B7076C4B1.jpg",
+        "followerCount": 63771,
+        "roomID": 4281,
+        "experience": 696631,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4675760,
+      "userID": "d11ad397-b8ac-422a-9866-9753c6f51199",
+      "lastTimestamp": 1579435833,
+      "rank": 38,
+      "meta": {
+        "isLocked": "0",
+        "s1": "817560",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "d11ad397-b8ac-422a-9866-9753c6f51199",
+        "openID": "唯真兒",
+        "displayName": "唯真兒🍹",
+        "picture": "20BCCFDB-ED3C-42DB-880F-14377F088178.jpg",
+        "followerCount": 49507,
+        "roomID": 159681,
+        "experience": 1154480,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4656520,
+      "userID": "5b380d70-787a-4e15-82db-ecbfe7386532",
+      "lastTimestamp": 1579435694,
+      "rank": 39,
+      "meta": {
+        "isLocked": "0",
+        "s1": "462240",
+        "s2": "30000",
+        "s3": "67080",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "5b380d70-787a-4e15-82db-ecbfe7386532",
+        "openID": "brookiewong",
+        "displayName": "Brookie吖土",
+        "picture": "8FBBE8F1-F005-438E-B825-DA90AF9883C4.jpg",
+        "followerCount": 42342,
+        "roomID": 25024,
+        "experience": 13135,
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4640640,
+      "userID": "a6ecb94f-02bd-44a9-902b-0e8b6f2e84c1",
+      "lastTimestamp": 1579435646,
+      "rank": 40,
+      "meta": {
+        "isLocked": "0",
+        "s1": "464940",
+        "s2": "0",
+        "s3": "70100",
+        "r2": "100000",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "a6ecb94f-02bd-44a9-902b-0e8b6f2e84c1",
+        "openID": "心玥💖",
+        "displayName": "心玥",
+        "picture": "2C95956D-3E8C-47A2-9199-62BD75BE03C7.jpg",
+        "followerCount": 212442,
+        "roomID": 69600,
+        "experience": 3302313,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4615160,
+      "userID": "a93bc9da-d0f6-41d4-b75c-81c4899c0677",
+      "lastTimestamp": 1579435737,
+      "rank": 41,
+      "meta": {
+        "isLocked": "0",
+        "s1": "682020",
+        "s2": "0",
+        "s3": "47740",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "a93bc9da-d0f6-41d4-b75c-81c4899c0677",
+        "openID": "jacquelinchng",
+        "displayName": "莊思敏",
+        "picture": "21C7A2CA-1586-4899-BEB1-F2DF7F503D4B.jpg",
+        "followerCount": 59163,
+        "experience": 13294,
+        "roomID": 187024,
+        "region": "HK"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4559600,
+      "userID": "ad5da8bd-f5ee-44b5-9407-15fa40c89ec7",
+      "lastTimestamp": 1579435862,
+      "rank": 42,
+      "meta": {
+        "isLocked": "0",
+        "s1": "730620",
+        "s2": "0",
+        "s3": "53380",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "ad5da8bd-f5ee-44b5-9407-15fa40c89ec7",
+        "openID": "藌妍Mikayla",
+        "displayName": "傻眼貓咪🐱",
+        "picture": "7E0192A4-26FF-45B9-AF66-B50066A96F7A.jpg",
+        "followerCount": 42491,
+        "roomID": 260199,
+        "experience": 555677,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4543530,
+      "userID": "9bee6dec-8e50-4dea-9770-c876a0654dbb",
+      "lastTimestamp": 1579435890,
+      "rank": 43,
+      "meta": {
+        "isLocked": "0",
+        "s1": "685530",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "9bee6dec-8e50-4dea-9770-c876a0654dbb",
+        "openID": "十三妹如如兒🔪",
+        "picture": "DB0BBBDA-3C5A-4CF1-A3DA-03A6441B47EB.jpg",
+        "followerCount": 51829,
+        "roomID": 25281,
+        "displayName": "🦄️如如兒💫",
+        "experience": 623538,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4402980,
+      "userID": "3df8eb96-2837-4f4d-b0ab-17300d703409",
+      "lastTimestamp": 1579435773,
+      "rank": 44,
+      "meta": {
+        "isLocked": "0",
+        "s1": "678780",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "3df8eb96-2837-4f4d-b0ab-17300d703409",
+        "openID": "george9797",
+        "displayName": "張兆志",
+        "picture": "62a61eb2-ffe3-4e60-9dae-5e5901d83db1.jpg",
+        "followerCount": 62222,
+        "experience": 51207,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4368630,
+      "userID": "20ace8fc-09cd-4645-8989-aa8c1a07e785",
+      "lastTimestamp": 1579435472,
+      "rank": 45,
+      "meta": {
+        "isLocked": "0",
+        "s1": "672030",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "20ace8fc-09cd-4645-8989-aa8c1a07e785",
+        "openID": "zhenyi_baby",
+        "displayName": "真亦",
+        "picture": "2A7BCD11-806D-434E-8E20-53968FAC26EB.jpg",
+        "followerCount": 58488,
+        "experience": 13927,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4332410,
+      "userID": "0aa0ff66-6048-49e2-a709-708f530e8ca8",
+      "lastTimestamp": 1579435695,
+      "rank": 46,
+      "meta": {
+        "isLocked": "0",
+        "s1": "557010",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "0aa0ff66-6048-49e2-a709-708f530e8ca8",
+        "openID": "筱涵ayueyue0123",
+        "displayName": "💋筱涵",
+        "followerCount": 125785,
+        "picture": "ECBAF041-71C1-405B-AAA8-875C2173BCFD.jpg",
+        "roomID": 175,
+        "experience": 11530431,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4323100,
+      "userID": "2b9bada9-e436-4577-8c1b-84f9e3f64948",
+      "lastTimestamp": 1579435877,
+      "rank": 47,
+      "meta": {
+        "isLocked": "0",
+        "s1": "504900",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "2b9bada9-e436-4577-8c1b-84f9e3f64948",
+        "openID": "葵葵😘",
+        "displayName": "葵💋",
+        "picture": "d81883ab-4ea1-4853-bb8b-f712348e1aa8.jpg",
+        "followerCount": 71540,
+        "roomID": 1494,
+        "experience": 76644,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4268930,
+      "userID": "0c55f45c-9ff0-48ee-b051-f2826cd410fe",
+      "lastTimestamp": 1579435828,
+      "rank": 48,
+      "meta": {
+        "isLocked": "0",
+        "s1": "566730",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "0c55f45c-9ff0-48ee-b051-f2826cd410fe",
+        "openID": "rita瑞塔",
+        "displayName": "Rita",
+        "picture": "E43D03F1-03C4-45B7-9FCB-895E97973AE2.jpg",
+        "followerCount": 48230,
+        "experience": 1203567,
+        "roomID": 213713,
+        "region": "TW"
+      }
+    },
+    {
+      "type": "1912-tw-weiya@total",
+      "score": 4110530,
+      "userID": "3aa9a593-c4f9-4679-b364-b0ce2b2f1171",
+      "lastTimestamp": 1579435655,
+      "rank": 49,
+      "meta": {
+        "isLocked": "0",
+        "s1": "523530",
+        "s2": "0",
+        "s3": "0",
+        "r2": "0",
+        "total": "5000000"
+      },
+      "userInfo": {
+        "userID": "3aa9a593-c4f9-4679-b364-b0ce2b2f1171",
+        "openID": "芷玄*Lennaʕ•ﻌ•ʔ",
+        "followerCount": 91022,
+        "experience": 121559824,
+        "roomID": 252727,
+        "displayName": "🤒️發燒系主播😷",
+        "region": "TW",
+        "picture": "85A1709B-1464-4E78-916C-3947A7624BEE.jpg"
+      }
+    }
+  ],
+  "@caller": "jobs/1912-tw-weiya/offline/total.ts",
+  "@timestamp": 1576749351
+}
