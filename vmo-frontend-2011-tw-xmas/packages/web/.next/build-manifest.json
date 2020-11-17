@@ -1,0 +1,19 @@
+{
+  "devFiles": [
+    "static/development/dll/dll_c5fc60550ba138fa5db4.js"
+  ],
+  "pages": {
+    "/2011-tw-xmas-chris": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ]
+  }
+}
